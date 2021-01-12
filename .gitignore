@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dev files and folders
+.DS_Store
+.vscode
+Untitled*.ipynb
+*solutions.*
