@@ -22,3 +22,5 @@ You will be practicing python data types, user functions, built-in functions, et
 - File operations with open function
 
 Best of luck :smile:.
+
+**Update:** **Solutions** to the "Extract Numbers" section is available in [section-1-solutions branch](https://github.com/spu-python-203/assignment-3/tree/section-1-solutions).
